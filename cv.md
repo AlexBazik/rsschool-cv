@@ -10,11 +10,13 @@
 - Movavi video editor 
 - Git
 5. Code example
+
 `let a = 5;
 let b = 10;
 let sum = a + b;
 console.log("Сумма:", sum);`
 6. I have no experience in programming, but I quickly learn new information.
 7. *2012-2016 Nikolaev Agrarian College (diploma of land surveyor)*
+
 *2016-2021 Odessa Academy of Civil Engineering and Architecture (Bachelor of Land Management and Geodesy, Master of Geodesy)*
 8. Basic English (I have experience communicating with friends)
