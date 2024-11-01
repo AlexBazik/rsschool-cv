@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #99db5c;
+}
+
+header {
+    .my_image
+{
+    background:URL('https://github.com/AlexBazik/rsschool-cv/blob/rsschool-cv-html/img/Photo.jpg?raw=true');
+    width:600px;
+    height:600px;
+}
+    background: #809ce2;
+    color: #e2b7b7;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    background: #edbbbb;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(135, 2, 2, 0.999);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
