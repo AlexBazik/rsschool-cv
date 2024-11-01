@@ -28,13 +28,18 @@ h1, h2, h3 {
 
 .block-1 {
     color: #000;
-    text-align: right
-;
+    text-align: right;
     margin-top: -300px;
 }
 
 .block-2 {
     margin-top: 150px;
+}
+
+.block-3 {
+    text-align: right;
+    margin: 10px;
+    font-size: 24px;
 }
 section {
     background: #a7a0a0;
